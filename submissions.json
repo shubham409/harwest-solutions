@@ -2961,6 +2961,23 @@
     ],
     "timestamp": "Jun/12/2022 01:48"
   },
+  "CF84008300": {
+    "contest_id": 1367,
+    "language": "Python 3",
+    "path": "codeforces\\1367\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Even Array",
+    "problem_url": "https://codeforces.com/contest/1367/problem/B",
+    "submission_id": "CF84008300",
+    "submission_url": "https://codeforces.com/contest/1367/submission/84008300",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/16/2020 21:38"
+  },
   "CF84455175": {
     "contest_id": 1370,
     "language": "Python 3",
