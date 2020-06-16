@@ -2961,6 +2961,23 @@
     ],
     "timestamp": "Jun/12/2022 01:48"
   },
+  "CF83989613": {
+    "contest_id": 1367,
+    "language": "Python 3",
+    "path": "codeforces\\1367\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Short Substrings",
+    "problem_url": "https://codeforces.com/contest/1367/problem/A",
+    "submission_id": "CF83989613",
+    "submission_url": "https://codeforces.com/contest/1367/submission/83989613",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/16/2020 21:03"
+  },
   "CF84008300": {
     "contest_id": 1367,
     "language": "Python 3",
