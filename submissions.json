@@ -2961,6 +2961,25 @@
     ],
     "timestamp": "Jun/12/2022 01:48"
   },
+  "CF84455175": {
+    "contest_id": 1370,
+    "language": "Python 3",
+    "path": "codeforces\\1370\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximum GCD",
+    "problem_url": "https://codeforces.com/contest/1370/problem/A",
+    "submission_id": "CF84455175",
+    "submission_url": "https://codeforces.com/contest/1370/submission/84455175",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2020 20:39"
+  },
   "CF84782135": {
     "contest_id": 1369,
     "language": "Python 3",
