@@ -2961,6 +2961,23 @@
     ],
     "timestamp": "Jun/12/2022 01:48"
   },
+  "CF90124986": {
+    "contest_id": 1392,
+    "language": "Python 3",
+    "path": "codeforces\\1392\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Omkar and Password",
+    "problem_url": "https://codeforces.com/contest/1392/problem/A",
+    "submission_id": "CF90124986",
+    "submission_url": "https://codeforces.com/contest/1392/submission/90124986",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/16/2020 20:54"
+  },
   "CF90171184": {
     "contest_id": 1392,
     "language": "Python 3",
