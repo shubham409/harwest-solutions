@@ -1,4 +1,22 @@
 {
+  "CF109511804": {
+    "contest_id": 1406,
+    "language": "Python 3",
+    "path": "codeforces\\1406\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subset Mex",
+    "problem_url": "https://codeforces.com/contest/1406/problem/A",
+    "submission_id": "CF109511804",
+    "submission_url": "https://codeforces.com/contest/1406/submission/109511804",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Mar/09/2021 23:56"
+  },
   "CF109511980": {
     "contest_id": 1406,
     "language": "Python 3",
