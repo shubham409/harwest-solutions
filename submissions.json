@@ -1,4 +1,20 @@
 {
+  "CF109506772": {
+    "contest_id": 1411,
+    "language": "Python 3",
+    "path": "codeforces\\1411\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "In-game Chat",
+    "problem_url": "https://codeforces.com/contest/1411/problem/A",
+    "submission_id": "CF109506772",
+    "submission_url": "https://codeforces.com/contest/1411/submission/109506772",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/09/2021 22:41"
+  },
   "CF109507886": {
     "contest_id": 1399,
     "language": "Python 3",
