@@ -1,4 +1,21 @@
 {
+  "CF109509156": {
+    "contest_id": 1398,
+    "language": "Python 3",
+    "path": "codeforces\\1398\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bad Triangle",
+    "problem_url": "https://codeforces.com/contest/1398/problem/A",
+    "submission_id": "CF109509156",
+    "submission_url": "https://codeforces.com/contest/1398/submission/109509156",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/09/2021 23:16"
+  },
   "CF109511804": {
     "contest_id": 1406,
     "language": "Python 3",
