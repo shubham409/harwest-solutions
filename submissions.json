@@ -1,4 +1,21 @@
 {
+  "CF109647257": {
+    "contest_id": 1206,
+    "language": "Python 3",
+    "path": "codeforces\\1206\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Product Equal One",
+    "problem_url": "https://codeforces.com/contest/1206/problem/B",
+    "submission_id": "CF109647257",
+    "submission_url": "https://codeforces.com/contest/1206/submission/109647257",
+    "tags": [
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/10/2021 23:13"
+  },
   "CF109647925": {
     "contest_id": 1323,
     "language": "Python 3",
