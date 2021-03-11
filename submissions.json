@@ -1,4 +1,22 @@
 {
+  "CF109699203": {
+    "contest_id": 1496,
+    "language": "Python 3",
+    "path": "codeforces\\1496\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Diamond Miner",
+    "problem_url": "https://codeforces.com/contest/1496/problem/C",
+    "submission_id": "CF109699203",
+    "submission_url": "https://codeforces.com/contest/1496/submission/109699203",
+    "tags": [
+      "geometry",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Mar/11/2021 16:50"
+  },
   "CF109728815": {
     "contest_id": 1433,
     "language": "Python 3",
