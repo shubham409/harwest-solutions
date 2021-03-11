@@ -1,4 +1,23 @@
 {
+  "CF109688432": {
+    "contest_id": 1496,
+    "language": "Python 3",
+    "path": "codeforces\\1496\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Split it!",
+    "problem_url": "https://codeforces.com/contest/1496/problem/A",
+    "submission_id": "CF109688432",
+    "submission_url": "https://codeforces.com/contest/1496/submission/109688432",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Mar/11/2021 14:24"
+  },
   "CF109692730": {
     "contest_id": 1496,
     "language": "Python 3",
