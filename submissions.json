@@ -1,4 +1,23 @@
 {
+  "CF109917087": {
+    "contest_id": 1419,
+    "language": "Python 3",
+    "path": "codeforces\\1419\\D1.py",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Sage's Birthday (easy version)",
+    "problem_url": "https://codeforces.com/contest/1419/problem/D1",
+    "submission_id": "CF109917087",
+    "submission_url": "https://codeforces.com/contest/1419/submission/109917087",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Mar/13/2021 23:39"
+  },
   "CF109964312": {
     "contest_id": 1501,
     "language": "Python 3",
