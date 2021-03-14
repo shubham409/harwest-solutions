@@ -1,4 +1,20 @@
 {
+  "CF109992380": {
+    "contest_id": 705,
+    "language": "Python 3",
+    "path": "codeforces\\705\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hulk",
+    "problem_url": "https://codeforces.com/contest/705/problem/A",
+    "submission_id": "CF109992380",
+    "submission_url": "https://codeforces.com/contest/705/submission/109992380",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2021 23:49"
+  },
   "CF109992768": {
     "contest_id": 486,
     "language": "Python 3",
