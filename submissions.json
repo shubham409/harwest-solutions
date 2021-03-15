@@ -1,4 +1,20 @@
 {
+  "CF110060149": {
+    "contest_id": 1030,
+    "language": "Python 3",
+    "path": "codeforces\\1030\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "In Search of an Easy Problem",
+    "problem_url": "https://codeforces.com/contest/1030/problem/A",
+    "submission_id": "CF110060149",
+    "submission_url": "https://codeforces.com/contest/1030/submission/110060149",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/15/2021 23:20"
+  },
   "CF110135196": {
     "contest_id": 318,
     "language": "Python 3",
