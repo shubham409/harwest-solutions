@@ -1,4 +1,20 @@
 {
+  "CF110059876": {
+    "contest_id": 136,
+    "language": "Python 3",
+    "path": "codeforces\\136\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Presents",
+    "problem_url": "https://codeforces.com/contest/136/problem/A",
+    "submission_id": "CF110059876",
+    "submission_url": "https://codeforces.com/contest/136/submission/110059876",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/15/2021 23:16"
+  },
   "CF110060149": {
     "contest_id": 1030,
     "language": "Python 3",
