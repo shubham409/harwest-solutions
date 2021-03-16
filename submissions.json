@@ -1,4 +1,20 @@
 {
+  "CF110135196": {
+    "contest_id": 318,
+    "language": "Python 3",
+    "path": "codeforces\\318\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Even Odds",
+    "problem_url": "https://codeforces.com/contest/318/problem/A",
+    "submission_id": "CF110135196",
+    "submission_url": "https://codeforces.com/contest/318/submission/110135196",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Mar/16/2021 23:19"
+  },
   "CF110135879": {
     "contest_id": 131,
     "language": "Python 3",
