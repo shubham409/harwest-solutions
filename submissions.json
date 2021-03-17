@@ -1,4 +1,21 @@
 {
+  "CF110163215": {
+    "contest_id": 479,
+    "language": "Python 3",
+    "path": "codeforces\\479\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Expression",
+    "problem_url": "https://codeforces.com/contest/479/problem/A",
+    "submission_id": "CF110163215",
+    "submission_url": "https://codeforces.com/contest/479/submission/110163215",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Mar/17/2021 16:10"
+  },
   "CF110249149": {
     "contest_id": 1497,
     "language": "Python 3",
