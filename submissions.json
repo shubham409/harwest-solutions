@@ -1,4 +1,22 @@
 {
+  "CF110390105": {
+    "contest_id": 1499,
+    "language": "Python 3",
+    "path": "codeforces\\1499\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino on Windowsill",
+    "problem_url": "https://codeforces.com/contest/1499/problem/A",
+    "submission_id": "CF110390105",
+    "submission_url": "https://codeforces.com/contest/1499/submission/110390105",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/18/2021 22:49"
+  },
   "CF110394748": {
     "contest_id": 1499,
     "language": "Python 3",
