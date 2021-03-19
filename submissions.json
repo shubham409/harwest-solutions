@@ -1,4 +1,20 @@
 {
+  "CF110474629": {
+    "contest_id": 344,
+    "language": "Python 3",
+    "path": "codeforces\\344\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/344/problem/A",
+    "submission_id": "CF110474629",
+    "submission_url": "https://codeforces.com/contest/344/submission/110474629",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2021 22:52"
+  },
   "CF110477174": {
     "contest_id": 1454,
     "language": "Python 3",
