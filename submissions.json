@@ -1,4 +1,21 @@
 {
+  "CF110478561": {
+    "contest_id": 469,
+    "language": "Python 3",
+    "path": "codeforces\\469\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I Wanna Be the Guy",
+    "problem_url": "https://codeforces.com/contest/469/problem/A",
+    "submission_id": "CF110478561",
+    "submission_url": "https://codeforces.com/contest/469/submission/110478561",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2021 23:51"
+  },
   "CF110479169": {
     "contest_id": 785,
     "language": "Python 3",
