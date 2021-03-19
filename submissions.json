@@ -1,4 +1,20 @@
 {
+  "CF110482133": {
+    "contest_id": 1454,
+    "language": "GNU C++17",
+    "path": "codeforces\\1454\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Unique Bid Auction",
+    "problem_url": "https://codeforces.com/contest/1454/problem/B",
+    "submission_id": "CF110482133",
+    "submission_url": "https://codeforces.com/contest/1454/submission/110482133",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/20/2021 00:52"
+  },
   "CF110555111": {
     "contest_id": 61,
     "language": "Java 11",
