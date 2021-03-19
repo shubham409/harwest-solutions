@@ -1,4 +1,20 @@
 {
+  "CF110477174": {
+    "contest_id": 1454,
+    "language": "Python 3",
+    "path": "codeforces\\1454\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Unique Bid Auction",
+    "problem_url": "https://codeforces.com/contest/1454/problem/B",
+    "submission_id": "CF110477174",
+    "submission_url": "https://codeforces.com/contest/1454/submission/110477174",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2021 23:29"
+  },
   "CF110478561": {
     "contest_id": 469,
     "language": "Python 3",
