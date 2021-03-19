@@ -14,6 +14,7 @@ using namespace std;
 #define println(x) cout<<x<<endl
 #define newline cout<<endl;
 #define loop(i,n) for(int i=0; i<n; i++)
+
 template<typename first,typename second, typename input>
 map<first,second> counter( input & obj ){
     map<first,second>ans;
