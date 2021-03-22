@@ -1,3 +1,4 @@
+
 import java.util.*;
 import java.math.*;
 public class Cp1 {
@@ -19,15 +20,17 @@ public class Cp1 {
                 array[i][j]=sc.nextInt();
             }
         }
-        Arrays.sort(array,Comparator.comparingDouble(o->o[0]));
+        Arrays.sort(array, (a, b) -> a[0] - b[0]);
         for (int i = 0; i < n; i++) {
             if(s>array[i][0]){
                 s+=array[i][1];
+                
             }
             else {
                 print("NO");
                 return;
             }
+                
         }
         print("YES");
 
