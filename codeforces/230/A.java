@@ -1,12 +1,15 @@
 import java.util.*;
+import java.math.*;
 public class Cp1 {
     static <T> void print(T obj){
         System.out.println(obj);
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         solve(sc);
     }
+
     private static void solve(Scanner sc ) {
         int s=sc.nextInt();
         int n = sc.nextInt();
@@ -16,7 +19,7 @@ public class Cp1 {
                 array[i][j]=sc.nextInt();
             }
         }
-        Arrays.sort(array,Comparator.comparingInt(o->o[0]));
+        Arrays.sort(array,Comparator.comparingDouble(o->o[0]));
         for (int i = 0; i < n; i++) {
             if(s>array[i][0]){
                 s+=array[i][1];
@@ -27,5 +30,6 @@ public class Cp1 {
             }
         }
         print("YES");
+
     }
 }
