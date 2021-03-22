@@ -1,4 +1,21 @@
 {
+  "CF110762409": {
+    "contest_id": 230,
+    "language": "Python 3",
+    "path": "codeforces\\230\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dragons",
+    "problem_url": "https://codeforces.com/contest/230/problem/A",
+    "submission_id": "CF110762409",
+    "submission_url": "https://codeforces.com/contest/230/submission/110762409",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Mar/22/2021 23:50"
+  },
   "CF110765879": {
     "contest_id": 230,
     "language": "Java 11",
