@@ -1,4 +1,21 @@
 {
+  "CF110839363": {
+    "contest_id": 581,
+    "language": "Python 3",
+    "path": "codeforces\\581\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vasya the Hipster",
+    "problem_url": "https://codeforces.com/contest/581/problem/A",
+    "submission_id": "CF110839363",
+    "submission_url": "https://codeforces.com/contest/581/submission/110839363",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/23/2021 23:53"
+  },
   "CF110840130": {
     "contest_id": 750,
     "language": "Python 3",
