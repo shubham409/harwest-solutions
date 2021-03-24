@@ -1,4 +1,20 @@
 {
+  "CF110919849": {
+    "contest_id": 1154,
+    "language": "Python 3",
+    "path": "codeforces\\1154\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Restoring Three Numbers",
+    "problem_url": "https://codeforces.com/contest/1154/problem/A",
+    "submission_id": "CF110919849",
+    "submission_url": "https://codeforces.com/contest/1154/submission/110919849",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/24/2021 23:20"
+  },
   "CF110921516": {
     "contest_id": 427,
     "language": "Python 3",
