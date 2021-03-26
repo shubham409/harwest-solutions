@@ -1,4 +1,20 @@
 {
+  "CF111159513": {
+    "contest_id": 379,
+    "language": "Python 3",
+    "path": "codeforces\\379\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Candles",
+    "problem_url": "https://codeforces.com/contest/379/problem/A",
+    "submission_id": "CF111159513",
+    "submission_url": "https://codeforces.com/contest/379/submission/111159513",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Mar/26/2021 23:44"
+  },
   "CF111160361": {
     "contest_id": 1348,
     "language": "Python 3",
