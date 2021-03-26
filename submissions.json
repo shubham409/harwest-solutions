@@ -1,4 +1,21 @@
 {
+  "CF111161313": {
+    "contest_id": 1348,
+    "language": "Python 3",
+    "path": "codeforces\\1348\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Phoenix and Balance",
+    "problem_url": "https://codeforces.com/contest/1348/problem/A",
+    "submission_id": "CF111161313",
+    "submission_url": "https://codeforces.com/contest/1348/submission/111161313",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/27/2021 00:12"
+  },
   "CF111161887": {
     "contest_id": 749,
     "language": "Python 3",
