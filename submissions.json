@@ -1,4 +1,20 @@
 {
+  "CF111233809": {
+    "contest_id": 1371,
+    "language": "Python 3",
+    "path": "codeforces\\1371\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magical Sticks",
+    "problem_url": "https://codeforces.com/contest/1371/problem/A",
+    "submission_id": "CF111233809",
+    "submission_url": "https://codeforces.com/contest/1371/submission/111233809",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/27/2021 23:53"
+  },
   "CF111239456": {
     "contest_id": 1506,
     "language": "Java 11",
