@@ -1,4 +1,20 @@
 {
+  "CF111303040": {
+    "contest_id": 510,
+    "language": "Python 3",
+    "path": "codeforces\\510\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fox And Snake",
+    "problem_url": "https://codeforces.com/contest/510/problem/A",
+    "submission_id": "CF111303040",
+    "submission_url": "https://codeforces.com/contest/510/submission/111303040",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2021 00:03"
+  },
   "CF111410174": {
     "contest_id": 1498,
     "language": "Python 3",
