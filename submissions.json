@@ -1,4 +1,21 @@
 {
+  "CF111502057": {
+    "contest_id": 1352,
+    "language": "Python 3",
+    "path": "codeforces\\1352\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Round Numbers",
+    "problem_url": "https://codeforces.com/contest/1352/problem/A",
+    "submission_id": "CF111502057",
+    "submission_url": "https://codeforces.com/contest/1352/submission/111502057",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/30/2021 23:53"
+  },
   "CF111502126": {
     "contest_id": 492,
     "language": "Python 3",
