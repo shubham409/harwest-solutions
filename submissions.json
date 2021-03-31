@@ -841,6 +841,22 @@
     ],
     "timestamp": "Mar/31/2021 23:06"
   },
+  "CF111584385": {
+    "contest_id": 1428,
+    "language": "Python 3",
+    "path": "codeforces\\1428\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Box is Pull",
+    "problem_url": "https://codeforces.com/contest/1428/problem/A",
+    "submission_id": "CF111584385",
+    "submission_url": "https://codeforces.com/contest/1428/submission/111584385",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/31/2021 23:06"
+  },
   "CF111730490": {
     "contest_id": 1505,
     "language": "Python 3",
