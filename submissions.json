@@ -1,4 +1,21 @@
 {
+  "CF111584383": {
+    "contest_id": 1447,
+    "language": "Python 3",
+    "path": "codeforces\\1447\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Numbers Box",
+    "problem_url": "https://codeforces.com/contest/1447/problem/B",
+    "submission_id": "CF111584383",
+    "submission_url": "https://codeforces.com/contest/1447/submission/111584383",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Mar/31/2021 23:06"
+  },
   "CF111730490": {
     "contest_id": 1505,
     "language": "Python 3",
