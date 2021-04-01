@@ -1,4 +1,21 @@
 {
+  "CF111733149": {
+    "contest_id": 1505,
+    "language": "Python 3",
+    "path": "codeforces\\1505\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fibonacci Words",
+    "problem_url": "https://codeforces.com/contest/1505/problem/C",
+    "submission_id": "CF111733149",
+    "submission_url": "https://codeforces.com/contest/1505/submission/111733149",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/01/2021 23:51"
+  },
   "CF111812557": {
     "contest_id": 158,
     "language": "Python 3",
