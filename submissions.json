@@ -1,4 +1,21 @@
 {
+  "CF112024544": {
+    "contest_id": 1342,
+    "language": "Python 3",
+    "path": "codeforces\\1342\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Road To Zero",
+    "problem_url": "https://codeforces.com/contest/1342/problem/A",
+    "submission_id": "CF112024544",
+    "submission_url": "https://codeforces.com/contest/1342/submission/112024544",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/04/2021 23:25"
+  },
   "CF112024791": {
     "contest_id": 1283,
     "language": "Python 3",
