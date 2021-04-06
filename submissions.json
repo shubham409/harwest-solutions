@@ -1,4 +1,20 @@
 {
+  "CF112171994": {
+    "contest_id": 540,
+    "language": "Python 3",
+    "path": "codeforces\\540\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Combination Lock",
+    "problem_url": "https://codeforces.com/contest/540/problem/A",
+    "submission_id": "CF112171994",
+    "submission_url": "https://codeforces.com/contest/540/submission/112171994",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2021 23:26"
+  },
   "CF112172587": {
     "contest_id": 1382,
     "language": "Python 3",
