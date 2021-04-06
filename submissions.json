@@ -1,4 +1,20 @@
 {
+  "CF112172587": {
+    "contest_id": 1382,
+    "language": "Python 3",
+    "path": "codeforces\\1382\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Common Subsequence",
+    "problem_url": "https://codeforces.com/contest/1382/problem/A",
+    "submission_id": "CF112172587",
+    "submission_url": "https://codeforces.com/contest/1382/submission/112172587",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2021 23:34"
+  },
   "CF112173318": {
     "contest_id": 1360,
     "language": "Python 3",
