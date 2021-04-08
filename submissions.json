@@ -1,4 +1,21 @@
 {
+  "CF112331334": {
+    "contest_id": 151,
+    "language": "Python 3",
+    "path": "codeforces\\151\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Soft Drinking",
+    "problem_url": "https://codeforces.com/contest/151/problem/A",
+    "submission_id": "CF112331334",
+    "submission_url": "https://codeforces.com/contest/151/submission/112331334",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/08/2021 23:58"
+  },
   "CF112406162": {
     "contest_id": 34,
     "language": "Python 3",
