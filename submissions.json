@@ -1,4 +1,21 @@
 {
+  "CF112407427": {
+    "contest_id": 476,
+    "language": "Python 3",
+    "path": "codeforces\\476\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dreamoon and Stairs",
+    "problem_url": "https://codeforces.com/contest/476/problem/A",
+    "submission_id": "CF112407427",
+    "submission_url": "https://codeforces.com/contest/476/submission/112407427",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/10/2021 00:05"
+  },
   "CF112572278": {
     "contest_id": 1512,
     "language": "Python 3",
