@@ -1,4 +1,21 @@
 {
+  "CF112406162": {
+    "contest_id": 34,
+    "language": "Python 3",
+    "path": "codeforces\\34\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sale",
+    "problem_url": "https://codeforces.com/contest/34/problem/B",
+    "submission_id": "CF112406162",
+    "submission_url": "https://codeforces.com/contest/34/submission/112406162",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Apr/09/2021 23:49"
+  },
   "CF112407427": {
     "contest_id": 476,
     "language": "Python 3",
