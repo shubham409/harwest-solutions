@@ -1,4 +1,21 @@
 {
+  "CF112572278": {
+    "contest_id": 1512,
+    "language": "Python 3",
+    "path": "codeforces\\1512\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spy Detected!",
+    "problem_url": "https://codeforces.com/contest/1512/problem/A",
+    "submission_id": "CF112572278",
+    "submission_url": "https://codeforces.com/contest/1512/submission/112572278",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/10/2021 23:43"
+  },
   "CF112572397": {
     "contest_id": 1512,
     "language": "Python 3",
