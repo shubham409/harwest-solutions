@@ -1357,6 +1357,23 @@
     ],
     "timestamp": "Apr/12/2021 23:35"
   },
+  "CF112868497": {
+    "contest_id": 1372,
+    "language": "Python 3",
+    "path": "codeforces\\1372\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Omkar and Completion",
+    "problem_url": "https://codeforces.com/contest/1372/problem/A",
+    "submission_id": "CF112868497",
+    "submission_url": "https://codeforces.com/contest/1372/submission/112868497",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/12/2021 23:58"
+  },
   "CF112874429": {
     "contest_id": 1511,
     "language": "PyPy 3",
