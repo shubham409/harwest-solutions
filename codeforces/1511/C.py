@@ -11,7 +11,7 @@ def fun(ls,ms,qs):
         index=all_color[q]
         
         print(index,end=" ")
-        for current_index in range(maxi+1):
+        for current_index in range(51):
             val=all_color[current_index]
             if (val!=None and val<index):
                 all_color[current_index]=all_color[current_index]+1
@@ -19,7 +19,8 @@ def fun(ls,ms,qs):
     print()
 
 
-for i in range(1):
+T = 1
+for i in range(T):
     ms= list(map(int, input().split()))
     ls= list(map(int, input().split()))
     qs=list(map(int, input().split()))
