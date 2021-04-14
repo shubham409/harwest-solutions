@@ -1,5 +1,19 @@
+from collections import Counter
+from math import ceil ,floor
 def fun(st):
-    print((st.count('n')*'1 '+'0 '*st.count('z')))
+    dct= Counter(st)
+    count1=0
+    count0=0
+    if('z' in dct):
+        if('n' in dct):
+            count1=dct.get('n')
+            count0=dct.get('z')
+        else:
+            count0=dct.get('z')
+
+    else:
+        count1=dct.get('n')
+    print(*(count1*[1]+[0]*count0))
 
 
                              
