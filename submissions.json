@@ -1357,6 +1357,22 @@
     ],
     "timestamp": "Apr/12/2021 23:35"
   },
+  "CF113121103": {
+    "contest_id": 1092,
+    "language": "Python 3",
+    "path": "codeforces\\1092\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Teams Forming",
+    "problem_url": "https://codeforces.com/contest/1092/problem/B",
+    "submission_id": "CF113121103",
+    "submission_url": "https://codeforces.com/contest/1092/submission/113121103",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Apr/15/2021 23:56"
+  },
   "CF113264293": {
     "contest_id": 1509,
     "language": "Python 3",
