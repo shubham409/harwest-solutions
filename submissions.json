@@ -1357,6 +1357,22 @@
     ],
     "timestamp": "Apr/12/2021 23:35"
   },
+  "CF113121003": {
+    "contest_id": 1234,
+    "language": "Python 3",
+    "path": "codeforces\\1234\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Equalize Prices Again",
+    "problem_url": "https://codeforces.com/contest/1234/problem/A",
+    "submission_id": "CF113121003",
+    "submission_url": "https://codeforces.com/contest/1234/submission/113121003",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/15/2021 23:54"
+  },
   "CF113121103": {
     "contest_id": 1092,
     "language": "Python 3",
