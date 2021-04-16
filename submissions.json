@@ -1357,6 +1357,22 @@
     ],
     "timestamp": "Apr/12/2021 23:35"
   },
+  "CF113264360": {
+    "contest_id": 1509,
+    "language": "Python 3",
+    "path": "codeforces\\1509\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "TMT Document",
+    "problem_url": "https://codeforces.com/contest/1509/problem/B",
+    "submission_id": "CF113264360",
+    "submission_url": "https://codeforces.com/contest/1509/submission/113264360",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Apr/16/2021 23:39"
+  },
   "CF113265701": {
     "contest_id": 1343,
     "language": "Python 3",
