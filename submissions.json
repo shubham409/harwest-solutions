@@ -1357,6 +1357,22 @@
     ],
     "timestamp": "Apr/12/2021 23:35"
   },
+  "CF113356468": {
+    "contest_id": 1374,
+    "language": "PyPy 3",
+    "path": "codeforces\\1374\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Required Remainder",
+    "problem_url": "https://codeforces.com/contest/1374/problem/A",
+    "submission_id": "CF113356468",
+    "submission_url": "https://codeforces.com/contest/1374/submission/113356468",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/17/2021 23:42"
+  },
   "CF113356908": {
     "contest_id": 1003,
     "language": "PyPy 3",
