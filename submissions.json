@@ -1357,6 +1357,24 @@
     ],
     "timestamp": "Apr/12/2021 23:35"
   },
+  "CF113643103": {
+    "contest_id": 742,
+    "language": "PyPy 3",
+    "path": "codeforces\\742\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat",
+    "problem_url": "https://codeforces.com/contest/742/problem/A",
+    "submission_id": "CF113643103",
+    "submission_url": "https://codeforces.com/contest/742/submission/113643103",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Apr/20/2021 23:43"
+  },
   "CF113643134": {
     "contest_id": 742,
     "language": "Python 3",
