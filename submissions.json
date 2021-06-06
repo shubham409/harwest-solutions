@@ -1,4 +1,21 @@
 {
+  "CF118662137": {
+    "contest_id": 1468,
+    "language": "Python 3",
+    "path": "codeforces\\1468\\N.py",
+    "platform": "Codeforces",
+    "problem_index": "N",
+    "problem_name": "Waste Sorting",
+    "problem_url": "https://codeforces.com/contest/1468/problem/N",
+    "submission_id": "CF118662137",
+    "submission_url": "https://codeforces.com/contest/1468/submission/118662137",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/06/2021 23:55"
+  },
   "CF118662213": {
     "contest_id": 1427,
     "language": "Python 3",
