@@ -1,4 +1,21 @@
 {
+  "CF118662213": {
+    "contest_id": 1427,
+    "language": "Python 3",
+    "path": "codeforces\\1427\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Avoiding Zero",
+    "problem_url": "https://codeforces.com/contest/1427/problem/A",
+    "submission_id": "CF118662213",
+    "submission_url": "https://codeforces.com/contest/1427/submission/118662213",
+    "tags": [
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jun/06/2021 23:56"
+  },
   "CF118669604": {
     "contest_id": 1536,
     "language": "Python 3",
