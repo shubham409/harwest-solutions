@@ -1,4 +1,20 @@
 {
+  "CF118747477": {
+    "contest_id": 1327,
+    "language": "PyPy 3",
+    "path": "codeforces\\1327\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Odd Integers",
+    "problem_url": "https://codeforces.com/contest/1327/problem/A",
+    "submission_id": "CF118747477",
+    "submission_url": "https://codeforces.com/contest/1327/submission/118747477",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/07/2021 23:10"
+  },
   "CF119658785": {
     "contest_id": 1365,
     "language": "PyPy 3",
