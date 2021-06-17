@@ -1,4 +1,21 @@
 {
+  "CF119738269": {
+    "contest_id": 1413,
+    "language": "PyPy 3",
+    "path": "codeforces\\1413\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Finding Sasuke",
+    "problem_url": "https://codeforces.com/contest/1413/problem/A",
+    "submission_id": "CF119738269",
+    "submission_url": "https://codeforces.com/contest/1413/submission/119738269",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/17/2021 23:31"
+  },
   "CF119738320": {
     "contest_id": 1408,
     "language": "PyPy 3",
