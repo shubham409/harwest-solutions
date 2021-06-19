@@ -1,4 +1,22 @@
 {
+  "CF120020502": {
+    "contest_id": 1041,
+    "language": "Python 3",
+    "path": "codeforces\\1041\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Heist",
+    "problem_url": "https://codeforces.com/contest/1041/problem/A",
+    "submission_id": "CF120020502",
+    "submission_url": "https://codeforces.com/contest/1041/submission/120020502",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/19/2021 23:52"
+  },
   "CF120020766": {
     "contest_id": 1271,
     "language": "Python 3",
