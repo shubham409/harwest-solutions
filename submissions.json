@@ -1,4 +1,20 @@
 {
+  "CF120020304": {
+    "contest_id": 1315,
+    "language": "Python 3",
+    "path": "codeforces\\1315\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dead Pixel",
+    "problem_url": "https://codeforces.com/contest/1315/problem/A",
+    "submission_id": "CF120020304",
+    "submission_url": "https://codeforces.com/contest/1315/submission/120020304",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/19/2021 23:50"
+  },
   "CF120020362": {
     "contest_id": 1307,
     "language": "Python 3",
