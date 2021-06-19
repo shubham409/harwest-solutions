@@ -1,4 +1,22 @@
 {
+  "CF120020766": {
+    "contest_id": 1271,
+    "language": "Python 3",
+    "path": "codeforces\\1271\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Suits",
+    "problem_url": "https://codeforces.com/contest/1271/problem/A",
+    "submission_id": "CF120020766",
+    "submission_url": "https://codeforces.com/contest/1271/submission/120020766",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/19/2021 23:56"
+  },
   "CF120155556": {
     "contest_id": 1321,
     "language": "Python 3",
