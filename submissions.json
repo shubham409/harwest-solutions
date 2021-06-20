@@ -1,4 +1,21 @@
 {
+  "CF120155634": {
+    "contest_id": 1284,
+    "language": "Python 3",
+    "path": "codeforces\\1284\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year and Naming",
+    "problem_url": "https://codeforces.com/contest/1284/problem/A",
+    "submission_id": "CF120155634",
+    "submission_url": "https://codeforces.com/contest/1284/submission/120155634",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2021 23:54"
+  },
   "CF120155755": {
     "contest_id": 1539,
     "language": "Python 3",
