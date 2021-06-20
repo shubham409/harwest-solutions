@@ -1,4 +1,20 @@
 {
+  "CF120155556": {
+    "contest_id": 1321,
+    "language": "Python 3",
+    "path": "codeforces\\1321\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Contest for Robots",
+    "problem_url": "https://codeforces.com/contest/1321/problem/A",
+    "submission_id": "CF120155556",
+    "submission_url": "https://codeforces.com/contest/1321/submission/120155556",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jun/20/2021 23:52"
+  },
   "CF120155593": {
     "contest_id": 1301,
     "language": "Python 3",
