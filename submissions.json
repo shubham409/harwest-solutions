@@ -1,4 +1,20 @@
 {
+  "CF120237036": {
+    "contest_id": 1362,
+    "language": "Python 3",
+    "path": "codeforces\\1362\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Johnny and Ancient Computer",
+    "problem_url": "https://codeforces.com/contest/1362/problem/A",
+    "submission_id": "CF120237036",
+    "submission_url": "https://codeforces.com/contest/1362/submission/120237036",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/21/2021 23:56"
+  },
   "CF120237246": {
     "contest_id": 1295,
     "language": "Python 3",
