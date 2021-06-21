@@ -1,4 +1,21 @@
 {
+  "CF120236999": {
+    "contest_id": 1405,
+    "language": "Python 3",
+    "path": "codeforces\\1405\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Cancellation",
+    "problem_url": "https://codeforces.com/contest/1405/problem/B",
+    "submission_id": "CF120236999",
+    "submission_url": "https://codeforces.com/contest/1405/submission/120236999",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/21/2021 23:55"
+  },
   "CF120237036": {
     "contest_id": 1362,
     "language": "Python 3",
