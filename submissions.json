@@ -1,4 +1,20 @@
 {
+  "CF120237246": {
+    "contest_id": 1295,
+    "language": "Python 3",
+    "path": "codeforces\\1295\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Display The Number",
+    "problem_url": "https://codeforces.com/contest/1295/problem/A",
+    "submission_id": "CF120237246",
+    "submission_url": "https://codeforces.com/contest/1295/submission/120237246",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jun/21/2021 23:59"
+  },
   "CF120318015": {
     "contest_id": 1300,
     "language": "Python 3",
