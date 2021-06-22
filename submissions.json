@@ -1,4 +1,22 @@
 {
+  "CF120318082": {
+    "contest_id": 1293,
+    "language": "Python 3",
+    "path": "codeforces\\1293\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "JOE is on TV!",
+    "problem_url": "https://codeforces.com/contest/1293/problem/B",
+    "submission_id": "CF120318082",
+    "submission_url": "https://codeforces.com/contest/1293/submission/120318082",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/22/2021 23:54"
+  },
   "CF120320965": {
     "contest_id": 1293,
     "language": "Java 11",
