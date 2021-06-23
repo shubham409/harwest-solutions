@@ -1,4 +1,24 @@
 {
+  "CF120393190": {
+    "contest_id": 1328,
+    "language": "Python 3",
+    "path": "codeforces\\1328\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "K-th Beautiful String",
+    "problem_url": "https://codeforces.com/contest/1328/problem/B",
+    "submission_id": "CF120393190",
+    "submission_url": "https://codeforces.com/contest/1328/submission/120393190",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/23/2021 23:48"
+  },
   "CF120393296": {
     "contest_id": 459,
     "language": "Python 3",
