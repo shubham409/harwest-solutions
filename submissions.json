@@ -1,4 +1,21 @@
 {
+  "CF120393482": {
+    "contest_id": 1334,
+    "language": "Python 3",
+    "path": "codeforces\\1334\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Level Statistics",
+    "problem_url": "https://codeforces.com/contest/1334/problem/A",
+    "submission_id": "CF120393482",
+    "submission_url": "https://codeforces.com/contest/1334/submission/120393482",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/23/2021 23:52"
+  },
   "CF120471017": {
     "contest_id": 1277,
     "language": "Python 3",
