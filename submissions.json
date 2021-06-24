@@ -1,4 +1,20 @@
 {
+  "CF120471017": {
+    "contest_id": 1277,
+    "language": "Python 3",
+    "path": "codeforces\\1277\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Happy Birthday, Polycarp!",
+    "problem_url": "https://codeforces.com/contest/1277/problem/A",
+    "submission_id": "CF120471017",
+    "submission_url": "https://codeforces.com/contest/1277/submission/120471017",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/24/2021 23:53"
+  },
   "CF120471048": {
     "contest_id": 1266,
     "language": "Python 3",
