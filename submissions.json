@@ -1,4 +1,26 @@
 {
+  "CF124703527": {
+    "contest_id": 1549,
+    "language": "Python 3",
+    "path": "codeforces\\1549\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gregor and the Pawn Game",
+    "problem_url": "https://codeforces.com/contest/1549/problem/B",
+    "submission_id": "CF124703527",
+    "submission_url": "https://codeforces.com/contest/1549/submission/124703527",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/02/2021 20:38"
+  },
   "CF124703541": {
     "contest_id": 1549,
     "language": "Python 3",
