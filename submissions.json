@@ -1,4 +1,21 @@
 {
+  "CF124703541": {
+    "contest_id": 1549,
+    "language": "Python 3",
+    "path": "codeforces\\1549\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gregor and Cryptography",
+    "problem_url": "https://codeforces.com/contest/1549/problem/A",
+    "submission_id": "CF124703541",
+    "submission_url": "https://codeforces.com/contest/1549/submission/124703541",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Aug/02/2021 20:38"
+  },
   "CF126421360": {
     "contest_id": 1560,
     "language": "Python 3",
