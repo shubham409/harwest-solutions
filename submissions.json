@@ -1,4 +1,20 @@
 {
+  "CF127591741": {
+    "contest_id": 1195,
+    "language": "Python 3",
+    "path": "codeforces\\1195\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Basketball Exercise",
+    "problem_url": "https://codeforces.com/contest/1195/problem/C",
+    "submission_id": "CF127591741",
+    "submission_url": "https://codeforces.com/contest/1195/submission/127591741",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Sep/01/2021 16:27"
+  },
   "CF127592174": {
     "contest_id": 455,
     "language": "Python 3",
