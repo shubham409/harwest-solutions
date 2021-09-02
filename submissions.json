@@ -1,4 +1,20 @@
 {
+  "CF127724854": {
+    "contest_id": 698,
+    "language": "Python 3",
+    "path": "codeforces\\698\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vacations",
+    "problem_url": "https://codeforces.com/contest/698/problem/A",
+    "submission_id": "CF127724854",
+    "submission_url": "https://codeforces.com/contest/698/submission/127724854",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Sep/03/2021 02:20"
+  },
   "CF127847284": {
     "contest_id": 1249,
     "language": "Java 11",
