@@ -1,4 +1,22 @@
 {
+  "CF127847284": {
+    "contest_id": 1249,
+    "language": "Java 11",
+    "path": "codeforces\\1249\\B2.java",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Books Exchange (hard version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/B2",
+    "submission_id": "CF127847284",
+    "submission_url": "https://codeforces.com/contest/1249/submission/127847284",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Sep/04/2021 19:33"
+  },
   "CF127847320": {
     "contest_id": 1249,
     "language": "Java 11",
