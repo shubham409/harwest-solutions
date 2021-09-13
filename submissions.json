@@ -1,4 +1,22 @@
 {
+  "CF128710590": {
+    "contest_id": 1566,
+    "language": "Python 3",
+    "path": "codeforces\\1566\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Median Maximization",
+    "problem_url": "https://codeforces.com/contest/1566/problem/A",
+    "submission_id": "CF128710590",
+    "submission_url": "https://codeforces.com/contest/1566/submission/128710590",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/13/2021 14:38"
+  },
   "CF129256006": {
     "contest_id": 1559,
     "language": "Python 3",
