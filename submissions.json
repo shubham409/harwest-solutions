@@ -1,4 +1,21 @@
 {
+  "CF129256215": {
+    "contest_id": 1559,
+    "language": "Python 3",
+    "path": "codeforces\\1559\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mocha and Hiking",
+    "problem_url": "https://codeforces.com/contest/1559/problem/C",
+    "submission_id": "CF129256215",
+    "submission_url": "https://codeforces.com/contest/1559/submission/129256215",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1200"
+    ],
+    "timestamp": "Sep/19/2021 16:36"
+  },
   "CF129256776": {
     "contest_id": 1559,
     "language": "Python 3",

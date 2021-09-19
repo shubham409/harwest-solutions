@@ -1,7 +1,3 @@
-# if last is 0 then we can just go from 1 to n+1 directly
-# if last is 1 we should start with one then travel such that one of te point goes from i to n+1 and then returns to i+1 to continue traversing remaining points
-# However there is one case in which we would like to start from n+1 when there is path from n+1 to 1 and then remaining points cause they dont have any edge to go on n+1 from any i
-
 def fun(ls,n):
     if ls[-1]==0:
         print(*[i for i in range(1,n+2)])
