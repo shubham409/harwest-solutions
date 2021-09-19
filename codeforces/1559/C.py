@@ -2,6 +2,9 @@ def fun(ls,n):
     if ls[-1]==0:
         print(*[i for i in range(1,n+2)])
     else:
+        if n==1 and ls[0]==1:
+            print(2,1)
+            return
         ans=[]
         possible=False
         last_value=None
@@ -25,9 +28,16 @@ def fun(ls,n):
         else:
             print(-1)
  
-
+ 
+    
+ 
+ 
 T = int(input())
+# T=1
 for i in range(T):
+    # st= input()
     n = int(input())
     ls = list(map(int, input().split()))
+    # ls = list(map(int, input().split()))
     fun(ls,n)
+
