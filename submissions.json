@@ -1,4 +1,22 @@
 {
+  "CF131010008": {
+    "contest_id": 431,
+    "language": "Java 11",
+    "path": "codeforces\\431\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "k-Tree",
+    "problem_url": "https://codeforces.com/contest/431/problem/C",
+    "submission_id": "CF131010008",
+    "submission_url": "https://codeforces.com/contest/431/submission/131010008",
+    "tags": [
+      "dp",
+      "implementation",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Oct/07/2021 01:00"
+  },
   "CF131242154": {
     "contest_id": 1594,
     "language": "Python 3",
