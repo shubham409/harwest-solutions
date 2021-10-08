@@ -1,4 +1,21 @@
 {
+  "CF131242208": {
+    "contest_id": 1594,
+    "language": "Python 3",
+    "path": "codeforces\\1594\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Special Numbers",
+    "problem_url": "https://codeforces.com/contest/1594/problem/B",
+    "submission_id": "CF131242208",
+    "submission_url": "https://codeforces.com/contest/1594/submission/131242208",
+    "tags": [
+      "bitmasks",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/09/2021 01:06"
+  },
   "CF131480522": {
     "contest_id": 1598,
     "language": "Python 3",
