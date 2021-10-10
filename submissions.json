@@ -1,4 +1,23 @@
 {
+  "CF131480522": {
+    "contest_id": 1598,
+    "language": "Python 3",
+    "path": "codeforces\\1598\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Computer Game",
+    "problem_url": "https://codeforces.com/contest/1598/problem/A",
+    "submission_id": "CF131480522",
+    "submission_url": "https://codeforces.com/contest/1598/submission/131480522",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/10/2021 21:14"
+  },
   "CF131560253": {
     "contest_id": 1598,
     "language": "Python 3",
