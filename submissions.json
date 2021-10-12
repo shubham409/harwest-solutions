@@ -1,4 +1,24 @@
 {
+  "CF131648592": {
+    "contest_id": 1598,
+    "language": "Java 11",
+    "path": "codeforces\\1598\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Delete Two Elements",
+    "problem_url": "https://codeforces.com/contest/1598/problem/C",
+    "submission_id": "CF131648592",
+    "submission_url": "https://codeforces.com/contest/1598/submission/131648592",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Oct/12/2021 19:05"
+  },
   "CF136838359": {
     "contest_id": 1610,
     "language": "Java 11",
