@@ -1,4 +1,21 @@
 {
+  "CF152515445": {
+    "contest_id": 1658,
+    "language": "Python 3",
+    "path": "codeforces\\1658\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Shinju and the Lost Permutation",
+    "problem_url": "https://codeforces.com/contest/1658/problem/C",
+    "submission_id": "CF152515445",
+    "submission_url": "https://codeforces.com/contest/1658/submission/152515445",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Apr/02/2022 23:36"
+  },
   "CF152516352": {
     "contest_id": 1658,
     "language": "Python 3",

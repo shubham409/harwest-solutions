@@ -1,29 +1,34 @@
 def fun(ls,n):
+    prv=None
 
     count1 =0
     j=0
     for i in ls:
+        if prv ==None:
+            prv = i
+
+        else:
+            if(i-prv>1):
+                print("No")
+                return
+            prv = i 
+
         if i==1:
             count1+=1
             index = j 
         j+=1
 
-    # more than one 1 are not possible only one bigges number is present 
     if(count1!=1 ):
         print('No')
         return
 
-    # rotate about 1 s index 
-
-    # traverse from 1th index to n , 0 to 1th index 
+    # rotate about j 
     prv = None
     for i in range (index , n):
         if prv ==None:
             prv = ls[i]
         else:
-            if(ls[i]-prv<=1):
-                pass
-            else:
+            if(ls[i]-prv>1):
                 print("No")
                 return
             prv = ls[i]
@@ -32,12 +37,10 @@ def fun(ls,n):
         if prv ==None:
             prv = ls[i]
         else:
-            if(ls[i]-prv <= 1):
-                pass
-            else:
+            if(ls[i]-prv>1):
                 print("No")
                 return
-            prv = ls[i] 
+            prv = ls[i]    
     print('Yes')
 
 
