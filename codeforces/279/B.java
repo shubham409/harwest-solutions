@@ -26,39 +26,49 @@ public class Main {
             int n = in.nextInt();
             int ar[] = new int[n];
             int time = in.nextInt();
-            int count = 0;
             for (int i = 0; i < n; i++) {
                 ar[i] = in.nextInt();
             }
-//       using binary search with starting i and find a prefix sum that is less than or equal to time
-            int prefix[] = new int[n + 1];
-            for (int i = 0; i < n; i++) {
-                if (i == 0) {
-                    prefix[i + 1] = ar[i];
-                } else {
-                    prefix[i + 1] = prefix[i] + ar[i];
-                }
-            }
-            for (int i = 0; i < n; i++) {
-//            we will find max index for which prefix sum between i and that index is less than the time
-                int first = i;
-                int last = n - 1;
-                int accepted = -1;
-                while (first <= last) {
-                    int mid = (first + last) / 2;
-                    int sum_till_mid = prefix[mid + 1] - prefix[i];
-                    if (sum_till_mid <= time) {
-                        first = mid + 1;
-                        accepted = mid;
-                    } else {
-                        last = mid - 1;
+//       using two pointer approach used in editorial
+//        approach move last pointer (to take more number = more sum ) till sum is less , when sum is greater increase front pointer(to take less number = less sum)
+            int first = 0;
+            int last = 0;
+            int sum_of_window = 0; // between sum of first and last
+//        we are only finding contiguious sum
+            int count = 0;
+            int current_size_window = 0;
+            while (last < n) {
+                if (sum_of_window + ar[last] > time) {
+//                increase front to lessen sum
+
+//                it is not necessary that removing one from front will solve problem e.g. 1 in left 50 in right
+                    while (first < last && sum_of_window + ar[last] > time) {
+                        sum_of_window -= ar[first];
+                        first += 1;
+                        current_size_window -= 1;
                     }
-                }
-                if (accepted != -1) {
-                    count = Integer.max(count, accepted - i + 1);
+//                no is disruptive ( time available 4 min but book require 70 minute )
+                    if (first == last && sum_of_window + ar[last] > time) {
+                        last += 1;
+                        first += 1;
+                    } else {
+//                    increase first pointer (already done in loop ) and include last
+                        sum_of_window += ar[last];
+                        last += 1;
+                        current_size_window += 1;
+                        count = Integer.max(count, current_size_window);
+
+                    }
+                    count = Integer.max(count, current_size_window);
+                } else {
+                    sum_of_window += ar[last];
+                    last += 1;
+                    current_size_window += 1;
+                    count = Integer.max(count, current_size_window);
                 }
             }
             out.println(count);
+
         }
 
     }
