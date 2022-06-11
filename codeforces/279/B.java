@@ -51,6 +51,7 @@ public class Main {
                     if (first == last && sum_of_window + ar[last] > time) {
                         last += 1;
                         first += 1;
+                        current_size_window = 0;
                     } else {
 //                    increase first pointer (already done in loop ) and include last
                         sum_of_window += ar[last];
